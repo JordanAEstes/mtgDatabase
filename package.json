@@ -1,0 +1,19 @@
+{
+  "name": "mtgdatabase",
+  "version": "1.0.0",
+  "description": "Card Database for Magic: The Gathering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanAEstes/mtgDatabase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanAEstes/mtgDatabase/issues"
+  },
+  "homepage": "https://github.com/JordanAEstes/mtgDatabase#readme"
+}
